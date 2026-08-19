@@ -1,0 +1,10 @@
+{
+  "nav": {
+    "home": "Home",
+    "vehicles": "Vehicles",
+    "services": "Services",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Contact us"
+  }
+}
