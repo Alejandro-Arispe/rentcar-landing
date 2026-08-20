@@ -6,5 +6,5 @@ export const SERVICES = [
   { id: 'home-delivery', title: 'Entrega a domicilio', icon: 'map-pin' },
   { id: 'insurance', title: 'Seguro', icon: 'shield' },
   { id: 'gps', title: 'GPS', icon: 'navigation' },
-  { id: 'driver', title: 'Servicio de chofer', icon: 'user' },
+  { id: 'driver', title: 'Servicio de conductor', icon: 'user' },
 ]
