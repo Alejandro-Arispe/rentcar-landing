@@ -19,7 +19,7 @@ export default function Navbar() {
     >
       <Container className="flex h-20 items-center justify-between">
         <a href="/" className="font-display text-xl font-bold text-brand-900">
-          RentCar
+          ABR
         </a>
 
         <NavLinks className="hidden lg:flex" />

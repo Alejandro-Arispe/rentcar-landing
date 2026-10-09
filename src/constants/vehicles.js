@@ -30,6 +30,16 @@ export const VEHICLES = [
     image: '/images/vehicles/Subaru.jpeg',
   },
   {
+    id: 'suzuki',
+    model: 'Suzuki Alto',
+    type: 'Hatchback',
+    transmission: 'Manual',
+    fuel: 'Gasolina',
+    capacity: '4 pasajeros',
+    description: 'Económico y práctico, ideal para ciudad y trayectos cortos.',
+    image: '/images/vehicle/Suzuki_alto.jpeg',
+  },
+  {
     id: 'placeholder',
     model: 'Próximamente',
     type: 'Por definir',

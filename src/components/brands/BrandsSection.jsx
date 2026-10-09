@@ -6,7 +6,7 @@ export default function BrandsSection() {
     <section className="section-tight border-y border-neutral-100 bg-neutral-50">
       <Container>
         <p className="text-center text-sm font-medium uppercase tracking-wider text-neutral-500">
-          Trabajamos con las principales marcas
+          Trabajamos con flas principales marcas
         </p>
 
         <div className="mt-8 grid grid-cols-3 items-center gap-6 sm:grid-cols-4 sm:gap-8 lg:grid-cols-8">

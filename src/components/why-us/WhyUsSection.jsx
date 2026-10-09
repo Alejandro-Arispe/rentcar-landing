@@ -9,7 +9,7 @@ export default function WhyUsSection() {
       <Container>
         <SectionTitle
           eyebrow="Nuestro compromiso"
-          title="¿Por qué elegir RentCar?"
+          title="¿Por qué elegir ABR?"
           description="Confianza construida en cada entrega."
         />
 
