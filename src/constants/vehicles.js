@@ -46,7 +46,7 @@ export const VEHICLES = [
     transmission: 'Por definir',
     fuel: 'Por definir',
     capacity: 'Por definir',
-    description: 'Nuevo vehículo incorporándose a la flota RentCar.',
+    description: 'Nuevo vehículo incorporándose a la flota ABR.',
     image: '/images/vehicle-placeholder.jpg',
   },
  

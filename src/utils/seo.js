@@ -1,5 +1,5 @@
 export const SITE_CONFIG = {
-  siteName: 'RentCar',
+  siteName: 'ABR',
   baseUrl: 'https://rentcar-scz.vercel.app',
   defaultTitle: 'ABR | Alquiler de vehículos en Santa Cruz de la Sierra, Bolivia',
   defaultDescription:

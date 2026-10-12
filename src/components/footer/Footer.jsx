@@ -19,7 +19,7 @@ export default function Footer() {
           <p>{CONTACT_INFO.phone} · {CONTACT_INFO.email}</p>
         </div>
 
-        <p className="text-xs text-neutral-500">© {year} RentCar. Todos los derechos reservados.</p>
+        <p className="text-xs text-neutral-500">© {year} ABR. Todos los derechos reservados.</p>
       </Container>
     </footer>
   )

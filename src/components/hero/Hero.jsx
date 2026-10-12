@@ -6,7 +6,7 @@ export default function Hero() {
   return (
     <section className="relative overflow-hidden bg-neutral-50">
       <Container className="grid items-center gap-10 py-16 sm:gap-12 sm:py-20 lg:grid-cols-2 lg:py-28">
-        <div className="order-2 animate-fadeUp lg:order-1">
+        <div className="order-2 animate-fadeUp lg:order-2">
           <h1 className="text-display-sm text-neutral-900 sm:text-display-md lg:text-display-lg">
             Vehículos seguros, cómodos y listos para tu próximo destino.
           </h1>
@@ -25,10 +25,10 @@ export default function Hero() {
           </div>
         </div>
 
-        <div className="order-1 relative aspect-[16/10] w-full overflow-hidden rounded-2xl sm:aspect-[4/3] lg:order-2 lg:aspect-square">
+        <div className="order-1 relative aspect-[16/10] w-full overflow-hidden rounded-2xl sm:aspect-[4/3] lg:order-1 lg:aspect-square">
           <img
             src="/images/logo.png"
-            alt="Vehículo RentCar listo para viaje"
+            alt="Vehículo ABR listo para viaje"
             className="h-full w-full object-cover"
             loading="eager"
             decoding="async"
